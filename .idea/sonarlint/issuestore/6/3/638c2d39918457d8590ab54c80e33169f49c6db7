@@ -1,0 +1,5 @@
+
+t	java:S116"ZRename this field "codigo_endereco" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôÓó¨ûÿÿÿÿ
+t	java:S116"ZRename this field "codigo_telefone" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã÷Ã¹ùÿÿÿÿ
+o	java:S116"ZRename this field "data_nascimento" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùƒŽß
+r	java:S116"XRename this field "data_cadastro" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼õôÞøÿÿÿÿ

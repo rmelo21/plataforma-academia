@@ -1,0 +1,8 @@
+
+q	java:S116"WRename this field "codigo_aluno" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Êâãªûÿÿÿÿ
+q	java:S116"\Rename this field "codigo_modalidade" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸öõô
+k	java:S116"VRename this field "valor_total" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™Áşõ
+p	java:S116"VRename this field "data_inicio" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åõøÿÿÿÿ
+n	java:S116"YRename this field "data_matricula" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æà´†
+v	java:S116"\Rename this field "data_cancelamento" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬Ò¤ûÿÿÿÿ
+r	java:S116"^Rename this field "motivo_cancelamento" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸¸»"
